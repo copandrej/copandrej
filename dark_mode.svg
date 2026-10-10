@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <text x="350" y="30" fill="#c9d1d9">
 <tspan x="350" y="30">andrej@cop</tspan> -———————————————————————————————————————————-—-
 <tspan x="350" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Fedora Linux</tspan>
-<tspan x="350" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">25 years, 3 months, 5 days</tspan>
+<tspan x="350" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">25 years, 3 months, 6 days</tspan>
 <tspan x="350" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Jožef Stefan Institute (IJS)</tspan>
 <tspan x="350" y="110" class="cc">. </tspan><tspan class="key">GRUB</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">MSc Computational Sci. &amp; Eng.</tspan>
 <tspan x="350" y="130" class="cc">. </tspan><tspan class="cc">............................ </tspan><tspan class="value">FAU Erlangen, USI Lugano</tspan>
